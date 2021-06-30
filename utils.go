@@ -1,4 +1,4 @@
-package example
+package zip
 
 import (
 	"github.com/beyondstorage/go-storage/v4/services"

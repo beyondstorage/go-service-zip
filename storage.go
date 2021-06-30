@@ -1,4 +1,4 @@
-package example
+package zip
 
 import (
 	"context"
