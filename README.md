@@ -1,5 +1,9 @@
-## How to create service that supports go-storage?
+# go-service-zip
 
-- Click [Use this template](https://github.com/beyondstorage/go-service-example/generate) to generate a new project.
-- Update `service.toml` to match service ability.
-- Execute `make build` to generate and build project.
+## Notes
+
+**This package has been moved to [go-storage](https://github.com/beyondstorage/go-storage/tree/master/services/zip).**
+
+```shell
+go get go.beyondstorage.io/services/zip
+```
